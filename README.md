@@ -1,4 +1,4 @@
 # Queue
-University Proect:
+University Project:
 Implementation List-based FIFO queue
 
